@@ -24,7 +24,7 @@ public static void CtoFahrenheit( Scanner input){
     public static void main(String[] args) {
 	// 2.	Buat program konversi suhu 78o C ke dalam satuan Reamur, Farenheit dan Kelvin
     // Source : http://www.cs.utsa.edu/~cs1063/lectures/Scanner.html
-
+//test
 
         Scanner input = new Scanner(System.in);
         System.out.print("Masukan Celcius yang Akan di Ubah ke Fahrenheit: ");
